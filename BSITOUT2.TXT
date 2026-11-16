@@ -1,0 +1,8 @@
+                    POLYTECHNIC UNIVERSITY OF THE PHILIPPINES
+                                STA. MESA, MANILA
+     STUDENT NUMBER     STUDENT NAME     MIDTERM GRADE     FINAL GRADE     AVERAGE GRADE
+     1001     JUAN DELA CRUZ           1.75     2.00      1.87
+     1002     MARIA SANTOS             2.25     1.50      1.87
+     1003     PEDRO REYES              1.00     1.25      1.12
+     1004     ANA GARCIA               3.00     2.50      2.75
+     1005     JOSE RIZAL               1.50     1.75      1.62

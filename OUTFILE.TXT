@@ -1,0 +1,29 @@
+       POLYTECHNIC UNIVERSITY OF THE PHILIPPINES
+                    STA. MESA, MANILA
+
+   COLLEGE OF COMPUTER AND INFORMATION SCIENCES
+
+Course Name        Year Name        Student Number        Student Name        Remarks
+X(4)            X(9)           X(5)               X(25)                         X(6)
+(C-NAME)        (YR-NAME)        (SNO-OUT)        (SNAME-OUT)        (REMARKS)
+
+BSIT    Freshman     S0001    Juan Dela Cruz               PASSED
+BSIT    Sophomore    S0002    Maria Santos                 FAILED
+
+COURSE NAME: Bachelor of Science in Information Technology
+TOTAL STUDENTS:     2
+TOTAL PASSED:     1
+TOTAL FAILED:     1
+
+BSCS    Freshman     S0003    Pedro Reyes                  PASSED
+BSCS    Senior       S0004    Ana Garcia                   FAILED
+
+COURSE NAME: Bachelor of Science in Computer Science
+TOTAL STUDENTS:     2
+TOTAL PASSED:     1
+TOTAL FAILED:     1
+
+
+TOTAL CCIS STUDENTS:      4
+TOTAL CCIS PASSED:      2
+TOTAL CCIS FAILED:      2

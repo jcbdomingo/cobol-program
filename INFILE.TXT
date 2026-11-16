@@ -1,0 +1,4 @@
+11S0001Juan Dela Cruz           125
+12S0002Maria Santos             325
+21S0003Pedro Reyes              200
+24S0004Ana Garcia               350
